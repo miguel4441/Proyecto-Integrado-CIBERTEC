@@ -1,4 +1,4 @@
-# Proyecto-Integrado-CIBERTEC
+# MiniProyecto
 
 
 
